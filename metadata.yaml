@@ -1,0 +1,28 @@
+_repo: L-Italia-nel-1898-Tumulti-e-reazione_67743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colajanni, Napoleone
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '34935'
+    url: http://www.gutenberg.org/2009/agents/34935
+description: ''
+gutenberg_issued: '2022-03-31'
+identifiers:
+  gutenberg: '67743'
+language: it
+pgterms:marc904: https://archive.org/details/litalianel1898tu00cola
+pgterms:marc905: 20210104082246colajanni
+pgterms:marc906: '1898'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Società Editrice Lombarda,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'L''Italia nel 1898: (Tumulti e reazione)'
+url: http://www.gutenberg.org/ebooks/67743
